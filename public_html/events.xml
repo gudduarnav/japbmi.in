@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<events>
+    <message>
+        <uploaded>ADMIN</uploaded>
+        <date>JULY-SEP 2018</date>
+        <subject>Two years master of science (M.Sc.) degree course in “Biomedical Instrumentation” (BMI) under the
+Joint Academic Programme between CU and WBUHS (Admission open for the Session 2018-19). 
+Last Date for Form Submission: 28-Sep-2018.
+         </subject>
+         <redirect>notifications.php</redirect>
+		 <enabled>1</enabled>
+    </message>
+
+
+    <message>
+        <uploaded>ADMIN</uploaded>
+        <date>2016</date>
+        <subject>Proceedings of the 1st International Conference
+           on Biomedical Science and Instrumentation (ICBSI) organized jointly by CU and WBUHS
+         </subject>
+         <redirect>notifications.php</redirect>
+		 <enabled>1</enabled>
+    </message>
+ 
+    <message>
+        <uploaded>ADMIN</uploaded>
+        <date>25 and 26 NOV 2016</date>
+        <subject>Brochure for 1st International Conference
+           on Biomedical Science and Instrumentation (ICBSI) organized jointly by CU and WBUHS
+         </subject>
+         <redirect>notifications.php</redirect>
+		 <enabled>1</enabled>
+    </message>
+
+
+</events>

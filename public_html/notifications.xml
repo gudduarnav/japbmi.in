@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<notifications>
+    <message>
+        <uploaded>ADMIN</uploaded>
+        <subject>Two years master of science (M.Sc.) degree course in “Biomedical Instrumentation” (BMI) under the
+Joint Academic Programme between CU and WBUHS (Admission open for the Session 2018-19).
+Last Date for Form Submission: 28-Sep-2018</subject>
+        <redirect>bin/jap-bmi-msc-2018.pdf</redirect>
+		<enabled>1</enabled>
+    </message>
+	
+  <message>
+      <uploaded>ADMIN</uploaded>
+      <subject>International Conference
+         on Biomedical Science and Instrumentation (ICBSI-2016) Conference Report
+       </subject>
+      <redirect>bin/Conf-Report.pdf</redirect>
+		<enabled>1</enabled>
+  </message>
+
+  <message>
+      <uploaded>ADMIN</uploaded>
+      <subject>Proceedings of the 1st International Conference
+         on Biomedical Science and Instrumentation (ICBSI) organized jointly by CU and WBUHS
+       </subject>
+      <redirect>bin/ICBSI_2016_souvenir book.pdf</redirect>
+		<enabled>1</enabled>
+  </message>
+
+  <message>
+      <uploaded>ADMIN</uploaded>
+      <subject>Brochure for 1st International Conference
+         on Biomedical Science and Instrumentation (ICBSI) organized jointly by CU and WBUHS
+       </subject>
+      <redirect>bin/ICBSI_2016_BROCHURE.pdf</redirect>
+		<enabled>1</enabled>
+  </message>
+
+
+  <message>
+      <uploaded>ADMIN</uploaded>
+      <subject>Annual Conference Notice and Agenda: 1st International Conference
+         on Biomedical Science and Instrumentation (ICBSI) organized jointly by CU and WBUHS
+       </subject>
+      <redirect>bin/icbsi-2016.pdf</redirect>
+ 		<enabled>1</enabled>
+ </message>
+
+
+    <message>
+        <uploaded>ADMIN</uploaded>
+        <subject>Two years master of science (M.Sc.) degree course in “Biomedical Instrumentation” (BMI) under this
+Joint Academic Programme between CU and WBUHS (Admission closed for the Session 2016-17)</subject>
+        <redirect>http://www.caluniv.ac.in/admission/jap-bmi-msc-2016.pdf</redirect>
+		<enabled>0</enabled>
+    </message>
+
+
+
+
+
+</notifications>
